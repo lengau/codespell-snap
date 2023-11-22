@@ -11,9 +11,9 @@ description: |
   This also means it shouldn't generate false-positives when you use a niche term it doesn't know about.
 
 confinement: strict
-base: core22
+base: core24
 # The base that the builds run on - allows building for other architectures
-build-base: core22
+build-base: core24
 compression: xz
 contact: https://github.com/lengau/codespell-snap/issues
 issues:
